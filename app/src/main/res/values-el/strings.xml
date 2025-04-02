@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_launcher_name">Εκκινητής</string>
+    <string name="launcher_settings">Ρυθμίσεις Εκκινητή</string>
+    <string name="app_info">Πληροφορίες εφαρμογής</string>
+    <string name="touch_hold_widget">Παρατεταμένο άγγιγμα στο Γραφικό και σύρετέ το στην αρχική σας οθόνη.</string>
+    <string name="uninstall">Απεγκατάσταση</string>
+    <string name="hide_icon">Απόκρυψη εικονιδίου</string>
+    <string name="add_hidden_icons">Προσθήκη κρυφών εικονιδίων</string>
+    <string name="manage_hidden_icons">Διαχείριση κρυφών εικονιδίων</string>
+    <string name="hidden_icons">Κρυφά εικονίδια</string>
+    <string name="hidden_icons_placeholder">Ορισμένες εφαρμογές δεν μπορούν να απεγκατασταθούν λόγω περιορισμών του συστήματος, αλλά μπορείτε να αποκρύψετε τα εικονίδια τους για να μην φαίνονται.</string>
+    <string name="app_drawer_settings">Συρτάρι εφαρμογών</string>
+    <string name="close_app_drawer_on_app_open">Κλείστε το συρτάρι εφαρμογών κατά το άνοιγμα μιας εφαρμογής</string>
+    <string name="home_screen_settings">Αρχική οθόνη</string>
+    <string name="widget_too_big">Το γραφικό είναι πολύ μεγάλο για το τρέχον μέγεθος της αρχικής οθόνης</string>
+</resources>
